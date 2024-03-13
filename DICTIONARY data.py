@@ -56,7 +56,7 @@ import json
 result = json.dumps(user1)
 print (result)
 
-# cara cek tipe data atas user1
+# cara cek tipe data untuk user1
 print ('\ncara cek type data user1')
 print (type(user1)) # --> data dict python
 print (type(result)) # --> data dict json
